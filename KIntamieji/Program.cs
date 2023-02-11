@@ -21,7 +21,7 @@ namespace KIntamieji
 
             string pavarde = "SuRam";
             int amzius = 34;
-            float ugis =  1.71;
+            float ugis = 171;
             double svoris = 56;
             char simbolis = 'A'; 
             bool tiesaMelas = false;
